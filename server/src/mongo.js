@@ -1,0 +1,1 @@
+MONGODB = "mongodb+srv://sofiaospinagomez5:123456So@cluster0.8fmawxd.mongodb.net/pruebatecnica"
